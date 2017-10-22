@@ -5,7 +5,7 @@ The description of the images are powered by Clarifai https://www.clarifai.com/.
 
 The OCR function is powered by OCR Space https://ocr.space/
 
-#Installation:
+Installation:
 
 	1. Download the Zip of the project
 	
